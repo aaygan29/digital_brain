@@ -1,3 +1,5 @@
+> **Merged 2026-08-16** into [structure-function-individuation](https://github.com/aaygan29/structure-function-individuation) as `digital-brain/`, alongside the companion identity/AI-topology results, with a full stress-test rigor pass (corrected statistics, math framework, adversarial review). This repo is preserved read-only for citation continuity; **the merged repo is the current source.**
+
 # digital_brain
 
 Subject-specific encoding models that map visual stimuli to predicted 7T fMRI responses (a "digital brain"), with a five-level protocol for testing how individual-specific those predictions really are.
